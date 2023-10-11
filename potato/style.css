@@ -1,0 +1,797 @@
+.frame-12,
+.frame-12 * {
+  box-sizing: border-box;
+}
+.frame-12 {
+  background: #121212;
+  width: 1440px;
+  height: 6796px;
+  position: relative;
+  overflow: hidden;
+}
+._260452868-428591152175777-2274832615437598674-n-removebg-1 {
+  width: 1080px;
+  height: 1080px;
+  position: absolute;
+  left: 197px;
+  top: -164px;
+}
+.rectangle-7 {
+  background: #1d1d1d;
+  width: 1440px;
+  height: 1350px;
+  position: absolute;
+  left: 0px;
+  top: 780px;
+}
+.group-34 {
+  position: absolute;
+  left: 190px;
+  top: 2016px;
+  overflow: visible;
+}
+.ellipse-10 {
+  background: radial-gradient(
+      closest-side,
+      rgba(18, 18, 18, 1) 0%,
+      rgba(18, 18, 18, 0) 38.24627101421356%
+    ),
+    radial-gradient(
+      closest-side,
+      rgba(18, 18, 18, 1) 0%,
+      rgba(18, 18, 18, 0) 38.24627101421356%
+    );
+  border-radius: 50%;
+  width: 1358px;
+  height: 1359px;
+  position: absolute;
+  left: 26px;
+  top: -406px;
+}
+.yudaev {
+  color: #1c1c1c;
+  text-align: center;
+  font: 400 288px/80% "Urban Starblues Demo", sans-serif;
+  position: absolute;
+  left: 683.68px;
+  top: 3895.7px;
+  transform-origin: 0 0;
+  transform: rotate(42.2deg) scale(1, 1);
+}
+.ux-ui {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 582px;
+  top: 161px;
+}
+.branding {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 682px;
+  top: 161px;
+}
+._3-d {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 826px;
+  top: 161px;
+}
+.group-33 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: #252525;
+  border-radius: 33.5px;
+  width: 346px;
+  height: 67px;
+  position: absolute;
+  left: 455px;
+  top: 403px;
+}
+.rectangle-2 {
+  background: var(
+    --,
+    linear-gradient(
+      262.16deg,
+      rgba(169, 209, 55, 1) 0%,
+      rgba(67, 209, 55, 1) 100%
+    )
+  );
+  border-radius: 33.5px;
+  width: 280px;
+  height: 67px;
+  position: absolute;
+  left: 705px;
+  top: 402px;
+}
+. {
+  color: #000000;
+  text-align: center;
+  font: 400 18px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 743px;
+  top: 429px;
+}
+._7 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 18px/80% "Mulish", sans-serif;
+  position: absolute;
+  left: 485px;
+  top: 429px;
+}
+.rectangle-6 {
+  background: #e5e1f3;
+  width: 579px;
+  height: 658px;
+  position: absolute;
+  left: 130px;
+  top: 646px;
+}
+.rectangle-9 {
+  background: #c1bab0;
+  width: 579px;
+  height: 658px;
+  position: absolute;
+  left: 130px;
+  top: 1325px;
+}
+.rectangle-10 {
+  width: 579px;
+  height: 658px;
+  position: absolute;
+  left: 730px;
+  top: 1533px;
+}
+.frame-67 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 3px;
+  width: 451.16px;
+  height: 281.97px;
+  position: absolute;
+  left: 271.8px;
+  top: 1606px;
+  box-shadow: 0px 136px 200px 0px rgba(0, 0, 0, 0.14);
+  transform-origin: 0 0;
+  transform: rotate(20.512deg) scale(1, 1);
+  backdrop-filter: blur(5px);
+}
+.rectangle-8 {
+  width: 579px;
+  height: 658px;
+  position: absolute;
+  left: 730px;
+  top: 854px;
+}
+._09-8985556-2 {
+  width: 491px;
+  height: 544px;
+  position: absolute;
+  left: 174px;
+  top: 760px;
+}
+.home {
+  border-radius: 17px;
+  border-style: solid;
+  border-color: var(--, rgba(255, 255, 255, 0.2));
+  border-width: 2px;
+  width: 483px;
+  height: 302px;
+  position: absolute;
+  left: 778px;
+  top: 1007px;
+  box-shadow: 0px 181px 200px 0px rgba(0, 0, 0, 0.81);
+}
+.frame-672 {
+  border-radius: 18px;
+  border-style: solid;
+  border-color: rgba(235, 235, 235, 0.2);
+  border-width: 2px;
+  width: 497.7px;
+  height: 311.27px;
+  position: absolute;
+  left: 145px;
+  top: 1564.55px;
+  box-shadow: 0px 136px 185px 0px rgba(0, 0, 0, 0.39);
+  transform-origin: 0 0;
+  transform: rotate(-11.303deg) scale(1, 1);
+  backdrop-filter: blur(5px);
+}
+.home-3 {
+  border-radius: 17px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 6px;
+  width: 509px;
+  height: 318px;
+  position: absolute;
+  left: 765px;
+  top: 1711px;
+  backdrop-filter: blur(10px);
+}
+.rectangle-13 {
+  width: 650px;
+  height: 904px;
+  position: absolute;
+  left: 60px;
+  top: 3516px;
+}
+.rectangle-15 {
+  width: 650px;
+  height: 564px;
+  position: absolute;
+  left: 730px;
+  top: 3390px;
+}
+.rectangle-11 {
+  border-radius: 124px;
+  width: 155.44px;
+  height: 369.18px;
+  position: absolute;
+  left: 1065.38px;
+  top: 2332.01px;
+  transform-origin: 0 0;
+  transform: rotate(20deg) scale(1, 1);
+}
+.rectangle-12 {
+  border-radius: 124px;
+  width: 155.44px;
+  height: 369.18px;
+  position: absolute;
+  left: 320px;
+  top: 2740.16px;
+  transform-origin: 0 0;
+  transform: rotate(-20deg) scale(1, 1);
+}
+.rectangle-14 {
+  border-radius: 0px;
+  position: absolute;
+  left: 154px;
+  top: 3460px;
+  overflow: visible;
+}
+.rectangle-16 {
+  border-radius: 0px;
+  position: absolute;
+  left: 824px;
+  top: 3334px;
+  overflow: visible;
+}
+.2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 italic 96px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 149px;
+  top: 4530px;
+}
+._01 {
+  text-align: center;
+  font: 700 italic 96px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 245px;
+  top: 3539px;
+}
+._02 {
+  text-align: center;
+  font: 700 italic 96px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 900px;
+  top: 3413px;
+}
+.studio {
+  color: #000000;
+  text-align: center;
+  font: 800 italic 96px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 196px;
+  top: 3615px;
+}
+.school {
+  color: #ffffff;
+  text-align: center;
+  font: 800 italic 96px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 867px;
+  top: 3489px;
+}
+.landing-page {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 3751px;
+}
+.ux-ui2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 870px;
+  top: 3625px;
+}
+.3 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 3786px;
+}
+.motion-design {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 870px;
+  top: 3660px;
+}
+.4 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 3821px;
+}
+.5 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 3856px;
+}
+._3-d2 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 3891px;
+}
+.motion-design2 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 3926px;
+}
+.6 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 3961px;
+}
+.7 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 870px;
+  top: 3695px;
+}
+.8 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 870px;
+  top: 3730px;
+}
+.rectangle-22 {
+  background: var(
+    --,
+    linear-gradient(
+      262.16deg,
+      rgba(169, 209, 55, 1) 0%,
+      rgba(67, 209, 55, 1) 100%
+    )
+  );
+  border-radius: 33.5px;
+  width: 293px;
+  height: 57px;
+  position: absolute;
+  left: 668px;
+  top: 3007px;
+}
+.9 {
+  color: #000000;
+  text-align: center;
+  font: 400 18px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 698px;
+  top: 3030px;
+  width: 233px;
+  height: 12px;
+}
+.ellipse-11 {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 130px;
+  top: 4774px;
+}
+.ellipse-15 {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 130px;
+  top: 5074px;
+}
+.ellipse-12 {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 430px;
+  top: 4774px;
+}
+.ellipse-16 {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 430px;
+  top: 5074px;
+}
+.ellipse-13 {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 730px;
+  top: 4774px;
+}
+.ellipse-17 {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 730px;
+  top: 5074px;
+}
+.ellipse-14 {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 1030px;
+  top: 4774px;
+}
+.ellipse-18 {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  left: 1030px;
+  top: 5074px;
+}
+.rectangle-17 {
+  background: #f3f1f6;
+  width: 1440px;
+  height: 965px;
+  position: absolute;
+  left: 0px;
+  top: 5688px;
+}
+.10 {
+  color: #aad554;
+  text-align: left;
+  font: 700 italic 144px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 5860px;
+  width: 1110px;
+}
+.c-6976-c-742-bd-2-d-48-e-633-f-98-a-6128-d-169-e-removebg-1 {
+  width: 682px;
+  height: 830px;
+  position: absolute;
+  left: 815px;
+  top: 5820px;
+}
+.11 {
+  color: #4a4a4a;
+  text-align: left;
+  font: 400 italic 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 5782px;
+}
+.12 {
+  color: #4a4a4a;
+  text-align: left;
+  font: 400 italic 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 130px;
+  top: 6140px;
+  width: 650px;
+  height: 143px;
+}
+._1995 {
+  color: #4a4a4a;
+  text-align: left;
+  font: 400 italic 18px/154% "TT Travels", sans-serif;
+  position: absolute;
+  left: 296px;
+  top: 5782px;
+}
+.group-35 {
+  position: absolute;
+  left: 145px;
+  top: 6252px;
+  overflow: visible;
+}
+.group-31 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-8 {
+  border-radius: 50%;
+  border-width: 23px;
+  border-style: solid;
+  border-image: linear-gradient(180deg, rgba(9, 12, 1, 0) 100%);
+  border-image-slice: 1;
+  width: 391.17px;
+  height: 87.62px;
+  position: absolute;
+  left: 233.32px;
+  top: 3231.18px;
+  transform-origin: 0 0;
+  transform: rotate(40deg) scale(1, 1);
+}
+.ellipse-9 {
+  border-radius: 50%;
+  border-width: 23px;
+  border-style: solid;
+  border-image: linear-gradient(180deg, rgba(9, 12, 1, 0) 100%);
+  border-image-slice: 1;
+  width: 391.17px;
+  height: 87.62px;
+  position: absolute;
+  left: 177.03px;
+  top: 3482.44px;
+  transform-origin: 0 0;
+  transform: rotate(-40deg) scale(1, 1);
+}
+.group-37 {
+  width: 1440px;
+  height: 143px;
+  position: absolute;
+  left: 0px;
+  top: 6653px;
+}
+.frame-68 {
+  width: 1440px;
+  height: 143px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-18 {
+  background: #121212;
+  width: 1440px;
+  height: 143px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.yudaev-branding {
+  color: #242424;
+  text-align: left;
+  font: 700 italic 96px/80% "Druk Wide", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 33px;
+}
+.ellipse-82 {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(
+    180deg,
+    rgba(170, 210, 55, 1) 0%,
+    rgba(170, 210, 55, 0) 100%
+  );
+  border-image-slice: 1;
+  width: 56.28px;
+  height: 12.61px;
+  position: absolute;
+  left: 134.1px;
+  top: 51.03px;
+  transform-origin: 0 0;
+  transform: rotate(40deg) scale(1, 1);
+}
+.ellipse-92 {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(
+    180deg,
+    rgba(170, 210, 55, 1) 0%,
+    rgba(170, 210, 55, 0) 100%
+  );
+  border-image-slice: 1;
+  width: 56.28px;
+  height: 12.61px;
+  position: absolute;
+  left: 126px;
+  top: 87.17px;
+  transform-origin: 0 0;
+  transform: rotate(-40deg) scale(1, 1);
+}
+.behance {
+  color: #7d7d7d;
+  text-align: left;
+  font: 700 italic 14px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 1032px;
+  top: 67px;
+}
+.yudaev-branding-gmail-com {
+  color: #7d7d7d;
+  text-align: left;
+  font: 700 italic 14px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 793px;
+  top: 67px;
+}
+.dribbble {
+  color: #7d7d7d;
+  text-align: left;
+  font: 700 italic 14px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 1135px;
+  top: 67px;
+}
+.instagram {
+  color: #7d7d7d;
+  text-align: left;
+  font: 700 italic 14px/80% "TT Travels", sans-serif;
+  position: absolute;
+  left: 1235px;
+  top: 67px;
+}
+.frame-73-default {
+  width: 1440px;
+  height: 110px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-38 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-19 {
+  background: #121212;
+  width: 1440px;
+  height: 110px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ellipse-83 {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(
+    180deg,
+    rgba(170, 210, 55, 1) 0%,
+    rgba(170, 210, 55, 0) 100%
+  );
+  border-image-slice: 1;
+  width: 56.28px;
+  height: 12.61px;
+  position: absolute;
+  left: 702.1px;
+  top: 32.03px;
+  transform-origin: 0 0;
+  transform: rotate(40deg) scale(1, 1);
+}
+.ellipse-93 {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(
+    180deg,
+    rgba(170, 210, 55, 1) 0%,
+    rgba(170, 210, 55, 0) 100%
+  );
+  border-image-slice: 1;
+  width: 56.28px;
+  height: 12.61px;
+  position: absolute;
+  left: 694px;
+  top: 68.17px;
+  transform-origin: 0 0;
+  transform: rotate(-40deg) scale(1, 1);
+}
+.yudaev-branding2 {
+  text-align: left;
+  font: 700 italic 14px/80% "Druk Wide", sans-serif;
+  position: absolute;
+  left: 130px;
+  top: 50px;
+}
+.yudaev-branding-2-span {
+  color: #a8cf36;
+  font: 700 italic 14px/80% "Druk Wide", sans-serif;
+}
+.yudaev-branding-2-span2 {
+  color: #ffffff;
+  font: 700 italic 14px/80% "Druk Wide", sans-serif;
+}
+.works {
+  color: #ffffff;
+  text-align: left;
+  font: 700 italic 14px/80% "Druk Wide", sans-serif;
+  position: absolute;
+  left: 1101px;
+  top: 50px;
+}
+.contacts {
+  color: #a8cf36;
+  text-align: left;
+  font: 700 italic 14px/80% "Druk Wide", sans-serif;
+  position: absolute;
+  left: 1201px;
+  top: 50px;
+}
+.ellipse-19 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #a8cf36;
+  border-width: 1px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  left: 950px;
+  top: 46px;
+}
+.ellipse-20 {
+  background: #313131;
+  border-radius: 50%;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  left: 977px;
+  top: 46px;
+}
+.ic-baseline-mode-night {
+  position: absolute;
+  left: 957.24px;
+  top: 49px;
+  transform: translate(-4.24px, 0px);
+  overflow: visible;
+}
+.akar-icons-sun-fill {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 981px;
+  top: 50px;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 0.46px;
+  top: 0.46px;
+  overflow: visible;
+}
